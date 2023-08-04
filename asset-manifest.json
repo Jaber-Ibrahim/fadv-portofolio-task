@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fadv-portofolio-task/static/css/main.ea723596.css",
+    "main.js": "/fadv-portofolio-task/static/js/main.112a7b4b.js",
+    "static/js/787.512dd3f2.chunk.js": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js",
+    "static/media/homepage.jpg": "/fadv-portofolio-task/static/media/homepage.6e22a6245c42a00c743c.jpg",
+    "static/media/about.jpg": "/fadv-portofolio-task/static/media/about.c7b68c263d1b3fca96c0.jpg",
+    "static/media/twitter.png": "/fadv-portofolio-task/static/media/twitter.7db2410756655c345272.png",
+    "index.html": "/fadv-portofolio-task/index.html",
+    "main.ea723596.css.map": "/fadv-portofolio-task/static/css/main.ea723596.css.map",
+    "main.112a7b4b.js.map": "/fadv-portofolio-task/static/js/main.112a7b4b.js.map",
+    "787.512dd3f2.chunk.js.map": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea723596.css",
+    "static/js/main.112a7b4b.js"
+  ]
+}
